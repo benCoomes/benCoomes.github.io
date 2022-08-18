@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Building this site with Jekyll and GitHub Pages"
-date:   2022-08-17 07:17:51 -0400
+date:   2022-08-17 09:02:32 -0400
 categories: jekyll
 ---
 ## How this site was born
-I have a friend who wants to build a personal blog site and learn something about web development along the way. A static site would definitely suit his needs and having just join GitHub, I thought this would be a great opportunity to try the GitHub pages product and Jekyll.
+I have a friend who wants to build a personal blog site and learn something about web development along the way. A static site would definitely suit his needs, so it was a great opportunity to try GitHub Pages and Jekyll.
 
-I followed [the GitHub Pages documentation](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/creating-a-github-pages-site-with-jekyll), but ran into a few errors along the way. 
+I followed [the GitHub Pages documentation](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/creating-a-github-pages-site-with-jekyll), to set up this site. It mostly worked as expected, but I did experience a few errors along the way. 
 
 ## Troubleshooting 
 1. When installing Jekyll via `gem install jekyll`, I got the following error:
