@@ -2,7 +2,8 @@
 layout: post
 title:  "Hosting PDFs"
 date:   2022-08-17 22:26:00 -0400
-categories: jekyll
+category: development
+tag: jekyll
 ---
 
 One of the requirements my friend has is that his site can host PDF files. This post shows how to do that with GitHub pages and Jekyll.

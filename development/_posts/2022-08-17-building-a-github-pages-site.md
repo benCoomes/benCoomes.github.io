@@ -2,7 +2,8 @@
 layout: post
 title:  "Building this site with Jekyll and GitHub Pages"
 date:   2022-08-17 09:02:32 -0400
-categories: jekyll
+category: development
+tag: jekyll
 ---
 ## How this site was born
 I have a friend who wants to build a personal blog site and learn something about web development along the way. A static site would definitely suit his needs, so it was a great opportunity to try GitHub Pages and Jekyll.
